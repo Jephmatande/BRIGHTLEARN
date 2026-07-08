@@ -1,10 +1,10 @@
 # BRIGHTLEARN
-# # BRIGHTLEARN COFFEE SHOP ANALYSIS
+## BRIGHTLEARN COFFEE SHOP ANALYSIS
 
-##THE DATA ANALYSIS PROJECT
+## THE DATA ANALYSIS PROJECT
 The data analysis project originated from the instructions from the new CEO of Bright Coffee Shop. The instruction sought to gain insight into sales and revenue from the business`s three locations, namely, Hell`s Kitchen, Astoria, and Lower Manhattan. These findings would ensure better decision-making. The data analysis was intended to solicit information on the best-selling locations among the three places, customer purchasing behaviours, best performing products, and the peak selling periods. The data analysis process followed a logical outline from understanding the problem, extracting the dataset, data uploading and cleaning, exploratory data analysis, data analysis, presentation, and reporting. Various tools were used in the process, including Miro for midmap and planning the project, Databricks for cleaning, exploring, and enhancing the data, MS Excel for analysing and visualising the data, as well as Canva for presenting the findings.
 
-## project objectives
+## Project objectives
 The project aimed to:
 * perform an analysis of trends of products in shops in different locations, across product types, and product categories.
 * Identify top-performing products the shop is offering.
